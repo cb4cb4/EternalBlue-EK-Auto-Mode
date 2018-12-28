@@ -1,5 +1,5 @@
 # EBEK---EternalBlue-EK
-EternalBlue Unlimited IP Range Exploiting Scripts.
+EternalBlue MS17-010 Exploit.
 
 #######################
 #  EBEK REQUIREMENTS  #
