@@ -1,4 +1,4 @@
-# EBEK---EternalBlue-EK
+#EBEK--EternalBlue-EK
 
 EternalBlue
 EternalSynergy
